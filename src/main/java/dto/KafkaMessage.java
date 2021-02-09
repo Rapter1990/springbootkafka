@@ -26,4 +26,5 @@ public class KafkaMessage {
                 ", messageDate=" + messageDate +
                 '}';
     }
+
 }
