@@ -1,4 +1,4 @@
-package dto;
+package com.springboot.kafka.springbootkafka.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
