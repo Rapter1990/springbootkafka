@@ -29,6 +29,8 @@ public class KafkaConsumerConfiguration {
         ConcurrentKafkaListenerContainerFactory<String, KafkaMessage> factory =
                 new ConcurrentKafkaListenerContainerFactory<>();
         factory.setConsumerFactory(consumerFactory());
+        factory.setRecordFilterStrategy(record ->
+                record.value().toString().contains("topic1"));
         return factory;
     }
 
