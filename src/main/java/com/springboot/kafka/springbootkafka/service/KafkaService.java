@@ -27,4 +27,5 @@ public class KafkaService {
     public void listen(@Payload KafkaMessage kafkaMessage) {
         logger.info("MessageInfo : {}", kafkaMessage);
     }
+
 }
