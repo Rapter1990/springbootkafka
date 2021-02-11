@@ -8,9 +8,9 @@ services:
     hostname: localhost
     container_name: kafka
     environment:
-      - "ADVERTISED_HOST=127.0.0.1"
-      - "ADVERTISED_PORT=9092"
-      - "AUTO_CREATE_TOPICS=true"
+      - "KAFKA_ADVERTISED_HOST_NAME=127.0.0.1"
+      - "KAFKA_ADVERTISED_PORT=9092"
+      - "KAFKA_AUTO_CREATE_TOPICS_ENABLE=true"
     command: >
       bash -c
       "(sleep 15s &&
