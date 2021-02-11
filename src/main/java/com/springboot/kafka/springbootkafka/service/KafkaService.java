@@ -18,7 +18,7 @@ public class KafkaService {
 
     @KafkaListener(
             topicPartitions = @TopicPartition(
-                    topic = "${fd.kafka.topic}",
+                    topic = "${k.kafka.topic}",
                     partitionOffsets = { @PartitionOffset(
                             partition = "0",
                             initialOffset = "0") }),

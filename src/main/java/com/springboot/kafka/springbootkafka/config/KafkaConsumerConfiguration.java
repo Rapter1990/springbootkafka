@@ -16,6 +16,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Configuration
+@EnableKafka
 public class KafkaConsumerConfiguration {
 
     @Value("${k.kafka.address}")
@@ -29,8 +30,8 @@ public class KafkaConsumerConfiguration {
         ConcurrentKafkaListenerContainerFactory<String, KafkaMessage> factory =
                 new ConcurrentKafkaListenerContainerFactory<>();
         factory.setConsumerFactory(consumerFactory());
-        factory.setRecordFilterStrategy(record ->
-                record.value().toString().contains("topic1"));
+        /*factory.setRecordFilterStrategy(record ->
+                record.value().toString().contains("topic1"));*/
         return factory;
     }
 
