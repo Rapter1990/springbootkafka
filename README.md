@@ -28,66 +28,24 @@
 
 <details>
 <summary>Click here to show the screenshots of project</summary>
-<table style="border: 0px;">
-  <tr>
-     <td align="center"> Figure 1 </td>
-  </tr>
-  <tr>
-    <td><img width="800" height="400" src ="docker_images\0.PNG"></td>
-  </tr>
-  <tr>
-       <td align="center"> Figure 2 </td>
-  </tr>
-  <tr>
-      <td><img width="2500" height="400" src ="docker_images\1.PNG"></td>
-  </tr>
-  <tr>
-       <td align="center"> Figure 3 </td>
-  </tr>
-  <tr>
-      <td><img width="2500" height="300" src ="docker_images\2.PNG"></td>
-  </tr>
-  <tr>
-     <td align="center"> Figure 4 </td>
-  </tr>
-  <tr>
-    <td><img width="2500" height="300" src ="docker_images\3.PNG"></td>
-  </tr>
-  <tr>
-       <td align="center"> Figure 5 </td>
-  </tr>
-  <tr>
-      <td><img width="2500" height="300" src ="docker_images\4.PNG"></td>
-  </tr>
-  <tr>
-         <td align="center"> Figure 6 </td>
-  </tr>
-  <tr>
-        <td><img width="2500" height="300" src ="docker_images\5.PNG"></td>
-  </tr>
-  <tr>
-        <td align="center"> Figure 7 </td>
-  </tr>
-  <tr>
-        <td><img width="1000" height="300" src ="docker_images\6.PNG"></td>
-  </tr>
-  <tr>
-        <td align="center"> Figure 8 </td>
-  </tr>
-  <tr>
-        <td><img width="2500" height="300" src ="docker_images\7.PNG"></td>
-  </tr>
-  <tr>
-        <td align="center"> Figure 9 </td>
-  </tr>
-  <tr>
-        <td><img width="2500" height="300" src ="docker_images\8.PNG"></td>
-  </tr>
-  <tr>
-        <td align="center"> Figure 10 </td>
-  </tr>
-  <tr>
-        <td><img width="2500" height="600" src ="docker_images\9.PNG"></td>
-  </tr>
-</table>
+    <p> Figure 1 </p>
+    <img width="800" height="400" src ="docker_images\0.PNG">
+    <p> Figure 2 </p>
+    <img width="1000" height="400" src ="docker_images\1.PNG">
+    <p> Figure 3 </p>
+    <img width="1000" height="400" src ="docker_images\2.PNG">
+    <p> Figure 4 </p>
+    <img width="1000" height="400" src ="docker_images\3.PNG">
+    <p> Figure 5 </p>
+    <img width="1000" height="400" src ="docker_images\4.PNG">
+    <p> Figure 6 </p>
+    <img width="1000" height="400" src ="docker_images\5.PNG">
+    <p> Figure 7 </p>
+    <img width="1000" height="400" src ="docker_images\6.PNG">
+    <p> Figure 8 </p>
+    <img width="1000" height="400" src ="docker_images\7.PNG">
+    <p> Figure 9 </p>
+    <img width="1000" height="400" src ="docker_images\8.PNG">
+    <p> Figure 10 </p>
+    <img width="1000" height="400" src ="docker_images\9.PNG">
 </details>
