@@ -24,7 +24,7 @@
     docker ps 
 ```
 
-### Screenshoots
+### Screenshots
 
 <details>
 <summary>Click here to show the screenshots of project</summary>
