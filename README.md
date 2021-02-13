@@ -28,7 +28,6 @@
 
 <details>
 <summary>Click here to show the screenshots of project</summary>
-    ![](docker_images\0.PNG | width=100)
     <p> Figure 1 </p>
     <img width="400" height="300" src ="docker_images\0.PNG">
     <p> Figure 2 </p>
