@@ -6,6 +6,8 @@
 
 1 ) Install Docker Desktop. Here is the installation link : https://docs.docker.com/docker-for-windows/install/
 
+2 ) Install Apache Kafka on Docker. Here is the installation link : https://hub.docker.com/r/ches/kafka/
+
 ### Screenshoots
 
 <details>
