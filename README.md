@@ -39,31 +39,31 @@
        <td align="center"> Figure 2 </td>
   </tr>
   <tr>
-      <td><img width="1300" height="400" src ="docker_images\1.PNG"></td>
+      <td><img width="1700" height="400" src ="docker_images\1.PNG"></td>
   </tr>
   <tr>
        <td align="center"> Figure 3 </td>
   </tr>
   <tr>
-      <td><img width="1300" height="300" src ="docker_images\2.PNG"></td>
+      <td><img width="1700" height="300" src ="docker_images\2.PNG"></td>
   </tr>
   <tr>
      <td align="center"> Figure 4 </td>
   </tr>
   <tr>
-    <td><img width="1300" height="300" src ="docker_images\3.PNG"></td>
+    <td><img width="1700" height="300" src ="docker_images\3.PNG"></td>
   </tr>
   <tr>
        <td align="center"> Figure 5 </td>
   </tr>
   <tr>
-      <td><img width="1300" height="300" src ="docker_images\4.PNG"></td>
+      <td><img width="1700" height="300" src ="docker_images\4.PNG"></td>
   </tr>
   <tr>
          <td align="center"> Figure 6 </td>
   </tr>
   <tr>
-        <td><img width="1300" height="300" src ="docker_images\5.PNG"></td>
+        <td><img width="1700" height="300" src ="docker_images\5.PNG"></td>
   </tr>
   <tr>
         <td align="center"> Figure 7 </td>
@@ -75,19 +75,19 @@
         <td align="center"> Figure 8 </td>
   </tr>
   <tr>
-        <td><img width="1300" height="300" src ="docker_images\7.PNG"></td>
+        <td><img width="1700" height="300" src ="docker_images\7.PNG"></td>
   </tr>
   <tr>
         <td align="center"> Figure 9 </td>
   </tr>
   <tr>
-        <td><img width="1300" height="300" src ="docker_images\8.PNG"></td>
+        <td><img width="1700" height="300" src ="docker_images\8.PNG"></td>
   </tr>
   <tr>
         <td align="center"> Figure 10 </td>
   </tr>
   <tr>
-        <td><img width="1300" height="300" src ="docker_images\9.PNG"></td>
+        <td><img width="1700" height="700" src ="docker_images\9.PNG"></td>
   </tr>
 </table>
 </details>
