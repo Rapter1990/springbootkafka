@@ -29,7 +29,7 @@
 <details>
 <summary>Click here to show the screenshots of project</summary>
     <p> Figure 1 </p>
-    <img width="800" height="600" src ="docker_images\0.PNG">
+    <img width="400" height="300" src ="docker_images\0.PNG">
     <p> Figure 2 </p>
     <img width="600" height="200" src ="docker_images\1.PNG">
     <p> Figure 3 </p>
