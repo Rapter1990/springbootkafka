@@ -4,6 +4,8 @@
 
 ### 🔨 Run the App
 
+1 ) Install Docker Desktop. Here is the installation link : https://docs.docker.com/docker-for-windows/install/
+
 ### Screenshoots
 
 <details>
