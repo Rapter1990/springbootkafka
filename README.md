@@ -11,15 +11,15 @@
     docker pull ches/kafka
 ```
 
-<b>4 )</b> Add zookeeper on Docker Container
+<b>4 )</b> Add <b>zookeeper</b> on Docker Container
 ```
     docker run --rm --name zookeeper -p 2181:2181 jplock/zookeeper 
 ```
-<b>5 )</b> Add kafka on Docker Container
+<b>5 )</b> Add <b>kafka</b> on Docker Container
 ```
     docker run --rm -p 9092:9092 -e KAFKA_ADVERTISED_HOST_NAME=127.0.0.1 --link zookeeper:zookeeper ches/kafka
 ```
-<b>6 )</b> Show all containers which run on Docker
+<b>6 )</b> Show all <b>containers</b> which run on Docker
 ```
     docker ps 
 ```
