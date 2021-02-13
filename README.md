@@ -31,7 +31,7 @@
     <p> Figure 1 </p>
     <img width="400" height="300" src ="docker_images\0.PNG">
     <p> Figure 2 </p>
-    <img width="1200" height="200" src ="docker_images\1.PNG">
+    <img width="1000" height="200" src ="docker_images\1.PNG">
     <p> Figure 3 </p>
     <img width="600" height="200" src ="docker_images\2.PNG">
     <p> Figure 4 </p>
