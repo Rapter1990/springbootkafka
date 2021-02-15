@@ -24,6 +24,13 @@
     docker ps 
 ```
 
+<b>7 )</b> Get a <b>POST</b> request in Postman ( localhost:8080/kafkamessage)
+```
+    {
+        "message" : "Write any message"
+    }
+```
+
 ### Screenshots
 
 <details>
