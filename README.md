@@ -2,6 +2,19 @@
 
 ### 📖 Information
 
+<ul style="list-style-type:disc">
+  <li>Item-1</li>
+  <li>Item-2</li>
+  <li>Item-3</li>
+  <li>Item-4</li>
+  <li>Item-5
+      <ul>
+        <li>Item-5.1</li>
+        <li>Item-5.2</li>
+      </ul>
+  </li>
+</ul>
+
 ### 🔨 Run the App
 
 <b>1 )</b> Install <b>Docker Desktop</b>. Here is the installation <b>link</b> : https://docs.docker.com/docker-for-windows/install/
