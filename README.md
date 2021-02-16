@@ -43,6 +43,11 @@
     }
 ```
 
+<b>8 )</b> Use the <b>command</b> to start any <b>container</b> of <b>Docker</b> after a closing process is over 
+```
+    docker start container_id
+```
+
 ### Screenshots
 
 <details>
