@@ -3,14 +3,13 @@
 ### 📖 Information
 
 <ul style="list-style-type:disc">
-  <li>Item-1</li>
-  <li>Item-2</li>
-  <li>Item-3</li>
-  <li>Item-4</li>
-  <li>Item-5
+  <li>It is a distributed message system which is based on <b>Publisher</b> and <b>Consumer</b></li>
+  <li>All messages are combined under one category.<b>Consumers</b> can fetch data from different kinds of category. <b>Publisher</b> is called as an app of sending message while <b>consumer</b> is called as an app of gettting message.</li>
+  <li>The app contains <b>Kafka</b> to collect data and then direct it to the system quickly and flawlessly instead of keeping it as a huge data. That's why it prevents data loss.</li>
+  <li>The app contains <b>zookeper</b> to inform <b>Producer</b> and <b>Consumer</b> about each node of Kafka or <b>Broker</b> when it doesn't work</li>
+  <li>The app uses <b>Docker</b> to run it in different kinds of platform
       <ul>
-        <li>Item-5.1</li>
-        <li>Item-5.2</li>
+        <li>Define <b>Kafka</b> and <b>zookeper</b> in its <b>container</b> instead of setting up each one seperately as a virtulization </li>
       </ul>
   </li>
 </ul>
