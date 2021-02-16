@@ -1,5 +1,7 @@
 # Spring Boot and Apache Kafka via Docker
 
+<img src="docker_images\10.PNG" alt="Main Information" width="800" height="600">
+
 ### 📖 Information
 
 <ul style="list-style-type:disc">
