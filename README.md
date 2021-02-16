@@ -9,7 +9,7 @@
   <li>The app contains <b>zookeper</b> to inform <b>Producer</b> and <b>Consumer</b> about each node of Kafka or <b>Broker</b> when it doesn't work</li>
   <li>The app uses <b>Docker</b> to run it in different kinds of platform
       <ul>
-        <li>Define <b>Kafka</b> and <b>zookeper</b> in its <b>container</b> instead of setting up each one seperately as a virtulization </li>
+        <li>Define <b>Kafka</b> and <b>zookeper</b> in its <b>container</b> instead of setting up each one seperately as a virtualization </li>
       </ul>
   </li>
 </ul>
