@@ -25,27 +25,27 @@
     docker pull ches/kafka
 ```
 
-<b>4 )</b> Add <b>zookeeper</b> on Docker Container
+<b>3 )</b> Add <b>zookeeper</b> on Docker Container
 ```
     docker run --rm --name zookeeper -p 2181:2181 jplock/zookeeper 
 ```
-<b>5 )</b> Add <b>kafka</b> on Docker Container
+<b>4 )</b> Add <b>kafka</b> on Docker Container
 ```
     docker run --rm -p 9092:9092 -e KAFKA_ADVERTISED_HOST_NAME=127.0.0.1 --link zookeeper:zookeeper ches/kafka
 ```
-<b>6 )</b> Show all <b>containers</b> which run on Docker
+<b>5 )</b> Show all <b>containers</b> which run on Docker
 ```
     docker ps 
 ```
 
-<b>7 )</b> Get a <b>POST</b> request in Postman ( ```localhost:8080/kafkamessage```)
+<b>6 )</b> Get a <b>POST</b> request in Postman ( ```localhost:8080/kafkamessage```)
 ```
     {
         "message" : "Write any message"
     }
 ```
 
-<b>8 )</b> Use the <b>command</b> to start any <b>container</b> of <b>Docker</b> after a closing process is over 
+<b>7 )</b> Use the <b>command</b> to start any <b>container</b> of <b>Docker</b> after a closing process is over 
 ```
     docker start container_id
 ```
